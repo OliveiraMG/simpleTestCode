@@ -26,7 +26,7 @@ public class APITestExercise {
 
         JSONObject request = new JSONObject(map);
 
-        request.put("job", "Developer");
+        request.put("job", "Software Engineer");
 
         baseURI = "https://reqres.in/api";
 
